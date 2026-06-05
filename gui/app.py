@@ -27,7 +27,7 @@ name = st.text_input(
 
 if name:
     st.success(
-        f"Sozialistische Grüße, {name}! "
+        f"Sozialistische Grüße Genossin/Genosse, {name}! "
         "Hier können Sie die Wetterdaten unserer wundervollen DDR erkunden."
     )
 
