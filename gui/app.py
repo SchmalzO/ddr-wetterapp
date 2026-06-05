@@ -87,7 +87,7 @@ with tab1:
             )
 
         st.divider()
-        st.subheader(f"Meteorologisches Bulletin für: {gewaehlter_ort['name']}")
+        st.subheader(f"Meteorologische Information für: {gewaehlter_ort['name']}")
 
         col3, col4 = st.columns(2)
 

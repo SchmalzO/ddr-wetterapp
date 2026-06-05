@@ -209,7 +209,7 @@ try:
     )
 
     print()
-    print("=== METEOROLOGISCHES INFORMATIONSBULLETIN ===")
+    print("=== METEOROLOGISCHE INFORMATION ===")
     print()
     print("Herausgeber: Hydrometeorologischer Dienst der DDR")
     print("Beobachtungsort: Hauptstadt der DDR, Berlin")
